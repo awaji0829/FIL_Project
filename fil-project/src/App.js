@@ -9,5 +9,5 @@ export default App;
 
 const Box = styled.div`
   width: 100%;
-  background-color: pink;
+  background-color: green;
 `;
